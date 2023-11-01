@@ -34,5 +34,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "jsdom": "^22.1.0",
+    "mutationobserver-shim": "^0.3.7"
   }
 }
