@@ -2,6 +2,7 @@
 Web App for Improved ChatGPT Workflow and Interface for Students!
 
 **#Project Description and Use Cases**
+
 GPTutor is envisioned as a sleek and user-friendly graphical user interface designed for seamless interaction with ChatGPT. The goal is to create a sophisticated yet simple platform where STEM students can systematically organize their dialogues by subject matter.
 
 The primary vision of GPTutor is to serve as an pocket tutor/on demand office hour. It aims to categorize conversations into distinct folders for each academic subject, with further subdivision for particular tasks such as:
