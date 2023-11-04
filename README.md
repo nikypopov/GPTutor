@@ -7,9 +7,9 @@ GPTutor is envisioned as a sleek and user-friendly graphical user interface desi
 
 The primary vision of GPTutor is to serve as an pocket tutor/on demand office hour. It aims to categorize conversations into distinct folders for each academic subject, with further subdivision for particular tasks such as:
 
-  -Lecture Assistance: For better grasp of complex topics discussed in class.
-  -Homework Guidance: Offering step-by-step collaborative problem solving, emphasizing concept mastery over direct answers.
-  -Coding Support: Generating code snippets, along with assistance in debugging and testing to smooth out the learning curve in programming.
+1.Lecture Assistance: For better grasp of complex topics discussed in class.
+2.Homework Guidance: Offering step-by-step collaborative problem solving, emphasizing concept mastery over direct answers.
+3.Coding Support: Generating code snippets, along with assistance in debugging and testing to smooth out the learning curve in programming.
 
 An important design note on GPTutor is a set of custom instructions embedded within each subdivision, aimed at optimizing the performance of    the GPT model for targeted educational outcomes. Here’s how these instructions come into play across various categories:
 
