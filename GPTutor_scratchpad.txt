@@ -1,0 +1,21 @@
+set up github, vscode  w/ github, any vscode extensions for node, react, node, python
+
+I would like to build a  web-base app using the OpenAI Chatpgt API. I want to build a clean and intuitive GUI to interact with chatgpt and organize my chats based on subject matter. The main use case/user are STEM graduate students. I want to have folders for each subject, and within each subject have chats for specific workloads (such as lecture help and understanding concepts, homework help you working side by side and step by step with you to solve problems and teach you the concepts without giving the answer blatantly, and code generation/assistance and debugging/testing). In essence, a pocket tutor, professor, software engineer, and open office hours to assist students. All in an organized and easy to use application which optimizes workflow. 
+
+My requiremnets are as follows: 
+User authentication and profile management.
+Chat interface to interact with ChatGPT.
+Folder and sub-folder structures to organize chats by subject and workload.
+Search functionality to find previous chats.
+Export and import chat functionalities.
+Custom instructions feature, similar to what is in the web version of chat gpt.
+
+My technology stack is as follows: 
+Frontend: React.js
+Backend: Flask (Python)
+Database: PostgreSQL
+Additional Technologies: Electron (if later want to make desktop app)
+
+I have already setup my development environment and began devolopement. The code i previously provided you was created using Create React App and the three files are components for the chat interface, including an input field for user messages and a display area for chat messages. 
+
+Can you review my code and make any edits or suggestions as needed and also provide some unit tests for the code? 
